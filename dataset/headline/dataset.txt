@@ -1,0 +1,59 @@
+{"article_link": "https://cuoi.tuoitre.vn/khoanh-khac-cristiano-ronaldo-khoac-ao-tuyen-han-quoc-20221203123129818.htm", "headline": "khoảnh khắc cristiano ronaldo khoác áo tuyển hàn quốc", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/nhat-tien-duc-ve-nuoc-bang-cu-tat-bong-gay-tranh-cai-o-cap-do-milimet-20221202103714404.htm", "headline": "nhật tiễn đức về nước bằng cú tạt bóng gây tranh cãi ở cấp độ milimet", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/com-ban-tru-vua-an-vua-run-2022120215162345.htm", "headline": "cơm bán trú ăn... run", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/du-doan-tran-ha-lan-my-co-hoa-bay-trong-loc-xoay-20221203105113418.htm", "headline": "dự đoán trận hà lan - mỹ: cờ hoa bay trong lốc xoáy", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/thi-truong-chung-khoan-doi-mau-20221202175413652.htm", "headline": "thị trường chứng khoán 'đổi màu'", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/bac-to-truong-to-dan-pho-sap-duoc-nghi-huu-20221129150113627.htm", "headline": "bác tổ trưởng tổ dân phố sắp... nghỉ hưu", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/cho-la-ban-2020032058036115.htm", "headline": "chó bạn", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/ham-loi-nhieu-nghe-si-mac-du-thu-benh-tat-hiem-ngheo-20221122183258211.htm", "headline": "ham lợi, nghệ sĩ 'mắc' đủ thứ bệnh tật hiểm nghèo", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/the-he-sieu-nhan-va-ac-mong-mang-ten-bai-tap-ve-nha-20221006095954849.htm", "headline": "thế hệ siêu nhân ác mộng mang tên 'bài tập về nhà'", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/co-the-boc-hoi-vi-giam-can-than-toc-20220921124450078.htm", "headline": "cơ thể 'bốc hơi' giảm cân thần tốc", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/tra-sua-gia-sinh-vien-2022010835295154.htm", "headline": "trà sữa giá sinh viên", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/co-nhung-thu-bien-mat-mot-cach-bi-an-20221002231344858.htm", "headline": "thứ biến mất bí ẩn", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/chu-doanh-nghiep-tu-tra-luong-cho-minh-2021110519959715.htm", "headline": "chủ doanh nghiệp tự... trả lương mình", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/tu-tin-xin-viec-voi-tieng-anh-10-cham-2021092557545915.htm", "headline": "tự tin xin tiếng anh 10 chấm", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/giao-vien-ngay-nay-phai-cong-du-thu-20221118115021196.htm", "headline": "giáo viên ngày nay 'cõng' đủ thứ", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/combo-tri-an-khach-hang-hut-ham-cau-20221117172302041.htm", "headline": "combo 'tri ân' khách hàng hút hầm cầu", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/co-giao-cung-phai-di-hoc-nang-cao-20221117103524527.htm", "headline": "cô giáo đi học nâng cao", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/cay-xang-goi-von-cac-shark-chay-mat-dep-20221116161053656.htm", "headline": "'cây xăng' gọi vốn, shark chạy mất dép", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/biet-doi-san-bat-cho-tha-rong-o-tp-thu-duc-20221111150142151.htm", "headline": "'biệt đội' săn bắt chó thả rông ở tp thủ đức", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/tien-si-cau-long-khong-dat-cam-can-nay-muc-hoa-ra-tro-dua-20221109131934073.htm", "headline": "tiến sĩ cầu lông đạt: cầm cân nảy mực hóa trò đùa!", "is_sarcastic": 1}
+{"article_link": "https://special.nhandan.vn/covid-19_nguycoroiloantamthan/index.html", "headline": "Covid-19 & nguy cơ rối loạn sức khỏe tâm thần": 0}
+{"article_link": "https://congan.com.vn/thi-truong/ngan-hang/nhieu-thuong-hieu-doi-moi-de-chinh-phuc-khach-hang-thoi-ky-moi_139027.html", "headline": "thương hiệu đổi mới chinh phục khách hàng thời kỳ mới": 0}
+{"article_link": "https://congan.com.vn/quoc-te/thoi-su-quoc-te/ty-phu-elon-musk-to-apple-da-doa-rut-twitter-khoi-cua-hang-ung-dung_140500.html", "headline": "Tỷ phú Elon Musk tố Apple dọa rút Twitter khỏi kho ứng dụng": 0}
+{"article_link": "https://nhandan.vn/kinh-te-vi-mo-tot-chung-khoan-se-som-hap-dan-tro-lai-post726867.html", "headline": "Kinh tế vĩ mô tốt, chứng khoán  sớm hấp dẫn trở lại": 0}
+{"article_link": "https://nhandan.vn/tao-la-phoi-xanh-trong-cac-khu-cong-nghiep-o-binh-duong-post726858.html", "headline": "Tạo "lá phổi xanh" trong các khu công nghiệp ở Bình Dương": 0}
+{"article_link": "https://nhandan.vn/phat-bieu-tai-nghi-truong-quyen-trach-nhiem-post701982.html", "headline": "Phát biểu nghị trường: Quyền & Trách nhiệm": 0}
+{"article_link": "https://congan.com.vn/quoc-te/quan-su/ben-trong-tau-san-bay-moi-dua-vao-hoat-dong-cua-an-do_136444.html", "headline": "Ấn Độ hạ thủy hàng  mẫu hạm đầu tiên mang tên Vikrant": 0}
+{"article_link": "https://congan.com.vn/quoc-te/thoi-su-quoc-te/my-ap-them-lenh-trung-phat-trieu-tien-vi-chuong-trinh-ten-lua_140629.html", "headline": "Mỹ áp thêm lệnh trừng phạt Triều Tiên chương trình tên lửa": 0}
+{"article_link": "https://congan.com.vn/giao-thong-24h/huong-di-xanh-cho-cong-nghe-van-chuyen_138979.html", "headline": "Ứng dụng mô tô bay trong đô thị: Hướng đi xanh cho công nghệ vận chuyển": 0}
+{"article_link": "https://congan.com.vn/vu-an/gia-nguoi-nha-dai-3-doi-tuong-lua-ban-ket-qua-lo-de-chiem-doat-hon-12-ty-dong_140562.html", "headline": "Giả “người nhà đài” lừa bán kết quả lô chiếm đoạt hơn 1,2 tỷ đồng": 0}
+{"article_link": "https://congan.com.vn/thi-truong/ngan-hang/tang-cuong-phat-hien-ngan-chan-chuyen-tien-danh-bac-mua-world-cup_140566.html", "headline": "Tăng cường phát hiện, ngăn chặn chuyển tiền đánh bạc mùa World Cup": 0}
+{"article_link": "https://congan.com.vn/song-theo-phap-luat/nguyen-giam-doc-benh-vien-mat-tphcm-lanh-muc-an-7-nam-tu_140614.html", "headline": "Nguyên Giám đốc Bệnh viện mắt TPHCM tuyên án 7 năm tù": 0}
+{"article_link": "https://nhandan.vn/lam-dong-co-6-nghe-nhan-duoc-phong-tang-nghe-nhan-uu-tu-post728133.html", "headline": "Lâm Đồng có 6 nghệ nhân được phong tặng “Nghệ nhân ưu tú”": 0}
+{"article_link": "https://nhandan.vn/trao-quyet-dinh-chu-tich-hoi-nha-bao-thanh-pho-ho-chi-minh-post727619.html", "headline": "Trao quyết định Chủ tịch Hội Nhà báo Thành phố Hồ Chí Minh": 0}
+{"article_link": "https://nhandan.vn/ho-xuan-huong-tam-voc-mot-danh-nhan-van-hoa-post727591.html", "headline": "Hồ Xuân Hương - Tầm vóc một Danh nhân văn hóa": 0}
+{"article_link": "https://nhandan.vn/chung-tay-chong-hang-lau-hang-gia-bao-ve-doanh-nghiep-va-nguoi-tieu-dung-post727923.html", "headline": "Chung tay chống hàng lậu, hàng giả, bảo vệ doanh nghiệp người tiêu dùng": 0}
+{"article_link": "https://nhandan.vn/agribank-giam-tiep-20-so-voi-lai-suat-cho-vay-de-ho-tro-khach-hang-post727776.html", "headline": "Agribank giảm tiếp 20%  lãi suất cho vay hỗ trợ khách hàng": 0}
+{"article_link": "https://nhandan.vn/tien-si-giup-nong-dan-lam-nong-nghiep-sach-post683788.html", "headline": "Tiến sĩ giúp nông dân làm nông nghiệp sạch": 0}
+{"article_link": "https://congan.com.vn/thi-truong/bat-dong-san/thu-tuong-lap-to-cong-tac-go-kho-cho-cac-du-an-bat-dong-san_139997.html", "headline": "Thủ tướng lập tổ công tác gỡ khó cho các dự án bất động sản": 0}
+{"article_link": "https://cuoi.tuoitre.vn/hai-huoc-o-my-dinh-thi-marathon-ma-khong-tim-thay-vach-dich-o-dau-2022122014011545.htm", "headline": "Hài hước Mỹ Đình: Thi marathon tìm thấy vạch đích ở đâu ", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/youtuber-hoa-dien-vi-phat-hien-chan-dong-toilet-o-qatar-co-voi-xit-20221218145944127.htm", "headline": "YouTuber 'hóa điên' phát hiện chấn động: Toilet ở Qatar vòi xịt", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/canh-sat-hoa-trang-thanh-ke-cap-giang-sinh-phat-xe-tranh-giai-lu-huong-vang-20221218103445305.htm", "headline": "Cảnh sát hóa trang thành 'kẻ cắp Giáng sinh' phạt xe tranh giải... lư hương vàng", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/tay-buon-ma-tuy-sa-luoi-vi-vo-luong-5-trieu-nhung-mua-sam-ca-ngay-2022121505570795.htm", "headline": "Tay buôn ma túy sa lưới vợ 'lương 5 triệu mua sắm ngày'", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/ban-than-bao-qua-bao-dong-gia-ban-trai-qua-mang-suot-nhieu-nam-lua-gan-7-ti-dong-20221220152713155.htm", "headline": "Bạn thân 'báo quá báo': Đóng giả bạn trai mạng suốt nhiều năm, lừa gần 7 tỉ đồng", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/cuoc-song-be-tac-vi-ban-cung-phong-4-thang-khong-tam-20221205093422426.htm", "headline": "Cuộc sống bế tắc bạn phòng 4 tháng không… tắm!", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/nua-dem-bat-day-rut-may-tho-ban-cung-phong-cho-de-ngu-20221204225635534.htm", "headline": "Nửa đêm bật dậy rút máy thở bạn phòng cho... dễ ngủ", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/chinh-lai-quan-cau-thu-vo-tinh-lo-hang-tren-truyen-hinh-20221020120449448.htm", "headline": "Chỉnh quần, cầu thủ vô tình 'lộ hàng' truyền hình", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/tiec-mung-tan-hoa-hau-o-new-york-ket-thuc-bang-cuoc-au-da-20221031121643531.htm", "headline": "Tiệc mừng tân hoa hậu ở New York kết thúc bằng cuộc... ẩu đả", "is_sarcastic": 1}
+{"article_link": "https://cuoi.tuoitre.vn/hanh-khach-rot-hon-vi-hai-phi-cong-mai-me-tac-dong-vat-ly-trong-buong-lai-20220830164757915.htm", "headline": "Hành khách 'rớt hồn' hai phi công mải mê 'tác động vật lý' trong buồng lái", "is_sarcastic": 1}
+{"article_link": "https://www.qdnd.vn/chinh-tri/tin-tuc/chu-tich-quoc-hoi-vuong-dinh-hue-du-le-trao-giai-thuong-vinfuture-714422", "headline": "Chủ tịch Quốc hội Vương Đình Huệ dự Lễ Trao giải thưởng VinFuture": 0}
+{"article_link": "https://www.qdnd.vn/chinh-tri/tin-tuc/nghe-an-ban-huong-phat-trien-kinh-te-xa-hoi-va-bao-dam-quoc-phong-an-ninh-den-nam-2030-tam-nhin-den-nam-2045-714408", "headline": "Nghệ An bàn hướng phát triển kinh tế - xã hội bảo đảm quốc phòng, an ninh đến năm, tầm nhìn đến năm": 0}
+{"article_link": "https://www.qdnd.vn/chinh-tri/tin-tuc/chu-tich-nuoc-nguyen-xuan-phuc-gap-mat-dai-bieu-cuu-chien-binh-bo-doi-ten-lua-phong-khong-va-su-doan-361-714427", "headline": "Chủ tịch nước Nguyễn Xuân Phúc gặp mặt đại biểu cựu chiến binh bộ đội tên lửa phòng không Sư đoàn": 0}
+{"article_link": "https://www.qdnd.vn/chinh-tri/cac-van-de/tao-xung-luc-moi-cho-quan-he-doi-tac-chien-luoc-viet-nam-indonesia-714447", "headline": "Tạo xung lực mới quan hệ đối tác chiến lược Việt Nam - Indonesia": 0}
+{"article_link": "https://www.qdnd.vn/xa-hoi/tin-tuc/hien-ke-xay-dung-doan-phat-trien-dang-trong-thanh-nien-713841", "headline": "Hiến kế xây dựng Đoàn, phát triển Đảng trong thanh niên": 0}
+{"article_link": "https://www.qdnd.vn/quoc-te/binh-luan/eu-thong-nhat-gioi-han-gia-tran-khi-dot-714448", "headline": "EU thống nhất giới hạn giá trần khí đốt": 0}
+{"article_link": "https://www.qdnd.vn/quoc-te/binh-luan/trien-vong-khong-may-lac-quan-cua-kinh-te-toan-cau-nam-2023-713153", "headline": "Triển vọng không mấy lạc quan kinh tế toàn cầu năm": 0}
+{"article_link": "https://www.qdnd.vn/phong-chong-dien-bien-hoa-binh/kien-dinh-cung-the-gioi-thuc-day-va-bao-ve-quyen-con-nguoi-713588", "headline": "Kiên định thế giới thúc đẩy bảo vệ quyền con người": 0}
+{"article_link": "https://www.qdnd.vn/phong-chong-dien-bien-hoa-binh/nhan-dien-va-phong-ngua-cac-thu-doan-loi-dung-ton-giao-chong-pha-viet-nam-hien-nay-712975", "headline": "Nhận diện phòng ngừa thủ đoạn lợi dụng tôn giáo chống phá Việt Nam hiện nay": 0}
+{"article_link": "https://www.qdnd.vn/phong-chong-dien-bien-hoa-binh/can-nhan-thuc-dung-che-do-dan-chu-cua-xa-hoi-ta-ngay-nay-712303", "headline": "nhận thức đúng chế độ dân chủ xã hội ta ngày nay": 0}
